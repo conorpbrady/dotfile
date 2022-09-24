@@ -1,0 +1,4 @@
+pane	0	0	1	:*	0	vim	:/home/conor/Projects/cbudget	1	vim	:vim
+pane	0	0	1	:*	1	conor@FinkPad:~/Projects/cbudget	:/home/conor/Projects/cbudget	0	zsh	:
+window	0	0	:vim	1	:*	e6a9,212x56,0,0[212x42,0,0,0,212x13,0,43,1]	:
+state	0	
