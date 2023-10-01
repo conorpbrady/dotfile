@@ -17,7 +17,8 @@ set nobackup
 
 set scrolloff=10
 
-set nowrap
+set wrap
+set linebreak
 
 set incsearch
 
@@ -30,7 +31,7 @@ set showcmd
 set showmode
 
 set showmatch
-
+set backspace=indent,eol,start
 set hlsearch
 
 set history=1000

@@ -1,3 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/conor/Projects/conban/conban'
+let g:netrw_dirhist_8='/Users/conor/Projects/conban/conban/public'
+let g:netrw_dirhist_7='/Users/conor/Projects/conban/conban'
+let g:netrw_dirhist_6='/Users/conor/Projects/conban/conban/src'
+let g:netrw_dirhist_5='/Users/conor/Projects/conban/conban/src/lib'
+let g:netrw_dirhist_4='/Users/conor/Projects/conban/conban/src'
+let g:netrw_dirhist_3='/Users/conor/Projects/articles'
+let g:netrw_dirhist_2='/Users/conor/Projects/conorbrady.io/conorbrady/conorbrady'
 let g:netrw_dirhist_1='/home/conor/.tmux'
